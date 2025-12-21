@@ -24,7 +24,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ### 📎 Preprocessament i anàlisi de dades (Capítol 3.3)
 
-**`TFM_Annex2_Preprocessament_i_neteja_de_dades.ipynb`**  
+**`01_integracio_i_neteja_de_dades.ipynb`**  
 *Apartat 3.3.1 – Integració i neteja de dades*
 
 - Càrrega del dataset original i del diccionari de variables  
@@ -34,7 +34,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ---
 
-**`TFM_Annex3_Transformacions_i_enginyeria_de_variables_basica.ipynb`**  
+**`02_enginyeria_de_variables_basica.ipynb`**  
 *Apartat 3.3.2 – Transformacions i enginyeria de variables bàsica*
 
 - Tractament de valors nuls estructurals i puntuals  
@@ -44,7 +44,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ---
 
-**`TFM_Annex4_Analisi_exploratoria_de_dades_EDA.ipynb`**  
+**`03_analisi_exploratoria_de_dades.ipynb`**  
 *Apartat 3.3.3 – Anàlisi exploratòria de dades (EDA)*
 
 - Anàlisi descriptiva i visual del portafoli  
@@ -54,7 +54,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ---
 
-**`TFM_Annex5_Enginyeria_de_variables_avancada.ipynb`**  
+**`04_enginyeria_de_variables_avancada.ipynb`**  
 *Apartat 3.3.4 – Enginyeria de variables avançada*
 
 - Construcció de datasets base per a freqüència, severitat i ràtio  
@@ -64,7 +64,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ---
 
-**`TFM_Annex6_Divisio_del_conjunt_de_dades.ipynb`**  
+**`05_divisio_temporal_train_test.ipynb`**  
 *Apartat 3.3.5 – Divisió del conjunt de dades*
 
 - Divisió estrictament temporal (train 2015–2017 / test 2018)  
@@ -75,7 +75,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ### 📎 Modelatge predictiu (Capítol 3.4)
 
-**`TFM_Annex7_Modelatge_predictiu.ipynb`**
+**`06_modelatge_predictiu.ipynb`**
 
 - Models base actuarials (GLM/GAM)  
 - Models avançats basats en ensembles i no lineals  
@@ -89,7 +89,7 @@ Cada notebook correspon directament a un subapartat del document principal i seg
 
 ### 📎 Validació i resultats (Capítols 3.5 i 3.6)
 
-**`TFM_Annex8_Validacio_avaluacio_i_resultats.ipynb`**
+**`07_validacio_i_resultats.ipynb`**
 
 - Validació final dels models seleccionats  
 - Avaluació sobre el cohort temporal de test (2018)  
